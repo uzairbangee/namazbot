@@ -8,7 +8,7 @@ idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.1
-numpy==1.16.2
+numpy==1.22.0
 pandoc-min==1.0.5
 ply==3.11
 python-decouple==3.1
